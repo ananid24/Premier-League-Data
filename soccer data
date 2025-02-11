@@ -1,0 +1,150 @@
+{
+  "season": "2023/2024",
+  "league": "Premier League",
+  "teams": [
+    {
+      "team": "Arsenal FC",
+      "goalScorers": [
+        { "player": "Bukayo Saka", "goals": 18 },
+        { "player": "Gabriel Martinelli", "goals": 13 },
+        { "player": "Martin Odegaard", "goals": 9 }
+      ]
+    },
+    {
+      "team": "Aston Villa FC",
+      "goalScorers": [
+        { "player": "Ollie Watkins", "goals": 14 },
+        { "player": "Evan Ferguson", "goals": 11 },
+        { "player": "Jacob Ramsey", "goals": 5 }
+      ]
+    },
+    {
+      "team": "AFC Bournemouth FC",
+      "goalScorers": [
+        { "player": "Dominic Solanke", "goals": 8 },
+        { "player": "Joshua King", "goals": 7 }
+      ]
+    },
+    {
+      "team": "Brentford FC",
+      "goalScorers": [
+        { "player": "Yoane Wissa", "goals": 10 },
+        { "player": "Rico Henry", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Brighton & Hove Albion FC",
+      "goalScorers": [
+        { "player": "Pascal Groß", "goals": 8 },
+        { "player": "Leandro Trossard", "goals": 7 },
+        { "player": "Moises Caicedo", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Chelsea FC",
+      "goalScorers": [
+        { "player": "Raheem Sterling", "goals": 17 },
+        { "player": "Kai Havertz", "goals": 10 },
+        { "player": "Mason Mount", "goals": 8 }
+      ]
+    },
+    {
+      "team": "Crystal Palace FC",
+      "goalScorers": [
+        { "player": "Wilfried Zaha", "goals": 12 },
+        { "player": "Eberechi Eze", "goals": 6 }
+      ]
+    },
+    {
+      "team": "Everton FC",
+      "goalScorers": [
+        { "player": "Dominic Calvert-Lewin", "goals": 11 },
+        { "player": "Richarlison", "goals": 9 },
+        { "player": "Anthony Gordon", "goals": 5 }
+      ]
+    },
+    {
+      "team": "Fulham FC",
+      "goalScorers": [
+        { "player": "Aleksandar Mitrovic", "goals": 15 },
+        { "player": "Ivan Cavaleiro", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Liverpool FC",
+      "goalScorers": [
+        { "player": "Mohamed Salah", "goals": 26 },
+        { "player": "Diogo Jota", "goals": 8 },
+        { "player": "Roberto Firmino", "goals": 5 },
+        { "player": "Sadio Mane", "goals": 3 }
+      ]
+    },
+    {
+      "team": "Luton Town FC",
+      "goalScorers": [
+        { "player": "Elijah Adebayo", "goals": 6 },
+        { "player": "James Collins", "goals": 5 },
+        { "player": "Solly March", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Manchester City FC",
+      "goalScorers": [
+        { "player": "Erling Haaland", "goals": 36 },
+        { "player": "Kevin De Bruyne", "goals": 9 },
+        { "player": "Phil Foden", "goals": 11 },
+        { "player": "Riyad Mahrez", "goals": 7 }
+      ]
+    },
+    {
+      "team": "Manchester United FC",
+      "goalScorers": [
+        { "player": "Bruno Fernandes", "goals": 24 },
+        { "player": "Marcus Rashford", "goals": 15 },
+        { "player": "Antony", "goals": 7 },
+        { "player": "Jadon Sancho", "goals": 6 }
+      ]
+    },
+    {
+      "team": "Newcastle United FC",
+      "goalScorers": [
+        { "player": "Callum Wilson", "goals": 12 },
+        { "player": "Alexander Isak", "goals": 8 },
+        { "player": "Kieran Trippier", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Nottingham Forest FC",
+      "goalScorers": [
+        { "player": "Taiwo Awoniyi", "goals": 10 },
+        { "player": "Morgan Gibbs-White", "goals": 6 },
+        { "player": "Brandon Williams", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Tottenham Hotspur FC",
+      "goalScorers": [
+        { "player": "Harry Kane", "goals": 28 },
+        { "player": "Heung-Min Son", "goals": 19 },
+        { "player": "Dejan Kulusevski", "goals": 8 },
+        { "player": "Lucas Moura", "goals": 5 }
+      ]
+    },
+    {
+      "team": "West Ham United FC",
+      "goalScorers": [
+        { "player": "Michail Antonio", "goals": 16 },
+        { "player": "Jarrod Bowen", "goals": 10 },
+        { "player": "Pablo Fornals", "goals": 4 }
+      ]
+    },
+    {
+      "team": "Wolverhampton Wanderers FC",
+      "goalScorers": [
+        { "player": "Raul Jimenez", "goals": 11 },
+        { "player": "Adama Traore", "goals": 5 },
+        { "player": "Rayan Ait-Nouri", "goals": 3 }
+      ]
+    }
+  ]
+}
